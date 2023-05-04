@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactMeal-Website/static/css/main.48db4c1a.css",
+    "main.js": "/ReactMeal-Website/static/js/main.da89510d.js",
+    "static/media/mealsImage.jpg": "/ReactMeal-Website/static/media/mealsImage.4865f29045e18b78ae54.jpg",
+    "index.html": "/ReactMeal-Website/index.html",
+    "main.48db4c1a.css.map": "/ReactMeal-Website/static/css/main.48db4c1a.css.map",
+    "main.da89510d.js.map": "/ReactMeal-Website/static/js/main.da89510d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48db4c1a.css",
+    "static/js/main.da89510d.js"
+  ]
+}
